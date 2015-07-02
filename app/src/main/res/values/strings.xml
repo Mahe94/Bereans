@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bereans Fellowship</string>
+
+    <string name="splash_button">NEXT</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_section1">News &amp; Updates</string>
+    <string name="title_section2">Prayer &amp; Praise</string>
+    <string name="title_section3">Sunday Sermons</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="no_internet">No Internet Available</string>
+    <string name="dialog_message">This app requires Google Play services. Please get Google Play services or update it.</string>
+    <string name="dialog_title">Google Play services</string>
+    <string name="ok">OK</string>
+
+</resources>
